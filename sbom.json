@@ -1,0 +1,15 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:69dc0086c464e069d27123593299961a",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-02-26T08:16:13.104038",
+    "component": {
+      "type": "application",
+      "name": "Low-Code Workflow Automation Platform"
+    }
+  },
+  "components": [],
+  "note": "Run 'pip-audit' and 'pip-licenses' for full CVE and license data"
+}

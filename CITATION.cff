@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: 'If you use this software, please cite it using these metadata.'
+type: software
+title: 'Low-Code Workflow Automation Platform'
+abstract: 'A low-code platform using n8n and LangChain to automate workflows, with a user-friendly interface and support for various integrations, built using TypeScript'
+authors:
+  - family-names: Developer
+    given-names: mehrshud
+repository-code: 'https://github.com/mehrshud/Low-Code Workflow Automation Platform'
+url: 'https://omnilertlab.com'
+license: MIT
+version: 1.0.0
+date-released: '2026-02-26'
+keywords:
+  - python
+  - fastapi
+  - postgresql
+  - redis
+  - docker
